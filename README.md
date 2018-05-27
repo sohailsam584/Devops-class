@@ -69,4 +69,17 @@ public class WriteToFile
 		{	System.out.println("An error occured while trying to write to the file");
 		}
 	}
+
+}
+
+
+
+/* HelloWorld.java
+ */
+
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
 }
